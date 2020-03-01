@@ -19,4 +19,6 @@ Then you can run the application by `./execfile`
 
 ## Demostration
 
+You can click on the image to have a brief outline of how it works
+
 [![Watch the video](https://img.youtube.com/vi/7Z3-SUrP3Ds/maxresdefault.jpg)](https://youtu.be/7Z3-SUrP3Ds)
